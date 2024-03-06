@@ -1,4 +1,4 @@
-[Create react App](https://faviun.github.io/react-shop/)
+[Демо](https://faviun.github.io/react-shop/)
 
 
 Используемые ресурсы:
