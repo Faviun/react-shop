@@ -1,3 +1,6 @@
+[Create react App](https://faviun.github.io/react-shop/)
+
+
 Используемые ресурсы:
 
 https://dashboard.fortniteapi.io/
