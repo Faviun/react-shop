@@ -1,8 +1,6 @@
-[Демо](https://faviun.github.io/react-shop/)
+Демо-версия - [https://faviun.github.io/react-shop/]
 
+Простенький шаблон магазина предметов из игры Fortnite, сделанный по видеоурокам - https://beonmax.com/courses/react/
 
-Используемые ресурсы:
+API: [https://fortniteapi.io/]
 
-https://dashboard.fortniteapi.io/
-
-https://materializecss.com
